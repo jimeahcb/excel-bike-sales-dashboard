@@ -11,7 +11,7 @@ This project analyzes bike sales data and presents an interactive Excel dashboar
 - Dashboard design & layout
 
 📈 Dashboard Preview
-![Bike Sales Dashboard](dashboard_preview.png)
+[![Bike Sales Dashboard](dashboard_preview.png)](https://github.com/jimeahcb/excel-bike-sales-dashboard/blob/main/Bike%20Sales%20Dashboard%20Preview.png?raw=true)
 
 📌 Key Insights
 - Middle-aged customers (aged 31 to 54) visited the store the most over other age brackets. 
