@@ -10,7 +10,6 @@ This project analyzes bike sales data and presents an interactive Excel dashboar
 - Slicers and interactive filtering
 - Dashboard design & layout
 
-📈 Dashboard Preview
 ## 📊 Dashboard Preview
 ![Bike Sales Dashboard](Bike%20Sales%20Dashboard%20Preview.png)
 
