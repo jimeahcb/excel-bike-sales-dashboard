@@ -19,8 +19,9 @@ This project analyzes bike sales data and presents an interactive Excel dashboar
 - Customers with shorter commutes were more likely to purchase a bike. 
 
 🛠️ How to Use This Project
-- Download bike_sales_dashboard.xlsx
+- Download Bike Sales Dashboard Project.xlsx by clicking "View Raw"
 - Open in Excel
+
 Use the slicers to filter by:
 - Marital Status
 - Region
