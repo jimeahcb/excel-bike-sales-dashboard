@@ -30,6 +30,7 @@ Use the slicers to filter by:
 View how the pivot charts update in real time.
 
 📚 Project Context
+
 This dashboard was built as part of a guided Excel analytics course to practice:
 - Data cleaning and preparation for visualization
 - Lookups and formulas
