@@ -25,7 +25,8 @@ This project analyzes bike sales data and presents an interactive Excel dashboar
 Use the slicers to filter by:
 - Marital Status
 - Region
-- Education 
+- Education
+  
 View how the pivot charts update in real time.
 
 📚 Project Context
