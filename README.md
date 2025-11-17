@@ -36,6 +36,7 @@ This dashboard was built as part of a guided Excel analytics course to practice:
 - Lookups and formulas
 - Pivot table analysis
 - Dashboard creation
+
 The final result is a polished, interactive Excel dashboard that demonstrates business analyst–level Excel capabilities.
 
 📞 Contact
